@@ -84,5 +84,3 @@ This project includes a detailed L1/L2 support workflow document covering:
 2. Load dataset into Power BI  
 3. Open .pbix file  
 4. Explore dashboard visuals  
-rthi Narayan  
-IT Intern | Data Enthusiast
