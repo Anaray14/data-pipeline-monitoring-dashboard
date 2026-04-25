@@ -46,7 +46,6 @@ The dashboard is built using Power BI, with SQL-based data validation and transf
 
 ## 📂 Project Structure
 Data-Pipeline-Monitoring-Dashboard/
-│
 ├── SQL/
 │   ├── SQL query banking Job scenario.sql
 │   ├── SQLQuery-difference.sql
@@ -69,9 +68,7 @@ Data-Pipeline-Monitoring-Dashboard/
 - Interactive Dashboard  
 
 ## 📄 Support Flow Documentation
-
 This project includes a detailed L1/L2 support workflow document covering:
-
 - Reconciliation failure handling  
 - Job failure troubleshooting  
 - Missing data detection and resolution  
@@ -83,4 +80,4 @@ This project includes a detailed L1/L2 support workflow document covering:
 1. Review SQL files for data validation and transformation logic  
 2. Load dataset into Power BI  
 3. Open .pbix file  
-4. Explore dashboard visuals  
+4. Explore dashboard visuals    
