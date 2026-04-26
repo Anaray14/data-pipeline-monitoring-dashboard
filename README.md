@@ -75,6 +75,7 @@ This project includes a detailed L1/L2 support workflow document covering:
 - Root cause analysis and fixes  
 
 📌 File: docs/Final_Support_Flow_Document.docx
+📄 Project Documentation: docs/Data_Pipeline_Monitoring_Project_Enhanced.pdf
 
 ## 🚀 How to Use
 1. Review SQL files for data validation and transformation logic  
